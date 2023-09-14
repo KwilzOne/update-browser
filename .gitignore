@@ -110,3 +110,7 @@ dist
 
 # CMD extra files
 *.cmd
+
+# PSD, PSB files
+*.psd
+*.psb
