@@ -6,7 +6,7 @@
 
 Usually all browsers update themselves now
 
-<details style="width: 100%; padding-left: 5px;">
+<details>
 	<summary>Did your browser not update itself?</summary>
 
 - <small>Check if you may have disabled autorun of the update service on your system</small>
@@ -21,12 +21,24 @@ Usually all browsers update themselves now
 <a href="https://google.com/chrome/update" rel="nofollow" target="_blank">
 <img
 		src="https://raw.githubusercontent.com/KwilzOne/update-browser/whitewolf/assets/Chrome.png"
-		align="left" alt="Chrome" width="64" height="64">
+		align="left" alt="Chrome Logo" width="64" height="64">
 </a>
 </br>
-
-<details style="width: 100%; padding-left: 5px;">
+<details>
 	<summary>Chrome</summary>
+
+- <small>It usually updates itself</small>
+</details>
+</br>
+
+<a href="https://support.microsoft.com/topic/microsoft-edge-update-settings-af8aaca2-1b69-4870-94fe-18822dbb7ef1" rel="nofollow" target="_blank">
+<img
+		src="https://raw.githubusercontent.com/KwilzOne/update-browser/whitewolf/assets/Edge.png"
+		align="left" alt="Edge Logo" width="64" height="64">
+</a>
+</br>
+<details>
+	<summary>Edge</summary>
 
 - <small>It usually updates itself</small>
 </details>
@@ -35,10 +47,10 @@ Usually all browsers update themselves now
 <a href="https://support.mozilla.org/en-US/kb/update-firefox-latest-release" rel="nofollow" target="_blank">
 	<img
 		src="https://raw.githubusercontent.com/KwilzOne/update-browser/whitewolf/assets/FireFox.png"
-		align="left" alt="FireFox" width="64" height="64">
+		align="left" alt="FireFox Logo" width="64" height="64">
 </a>
 </br>
-<details style="width: 100%">
+<details>
 	<summary>FireFox</summary>
 
 - <small>Offers updates in its interface on the top right hand side</small>
@@ -48,11 +60,11 @@ Usually all browsers update themselves now
 <a href="https://support.microsoft.com/windows/run-the-latest-version-of-internet-explorer-11-ea628df4-50ce-8019-f9f4-468e39685cea" rel="nofollow" target="_blank">
 	<img
 		src="https://raw.githubusercontent.com/KwilzOne/update-browser/whitewolf/assets/Msie.png"
-		align="left" alt="Msie" width="64" height="64"
+		align="left" alt="Msie Logo" width="64" height="64"
 	>
 </a>
 </br>
-<details style="width: 100%">
+<details>
 	<summary>Msie (Internet Explorer)</summary>
 
 - <small>Updates itself via Microsoft Store or Windows Updater</small>
@@ -62,7 +74,7 @@ Usually all browsers update themselves now
 <a href="https://forums.opera.com/topic/39405" rel="nofollow" target="_blank">
 	<img
 		src="https://raw.githubusercontent.com/KwilzOne/update-browser/whitewolf/assets/Opera.png"
-		align="left" alt="Opera" width="64" height="64"
+		align="left" alt="Opera Logo" width="64" height="64"
 	>
 </a>
 </br>
@@ -76,7 +88,7 @@ Usually all browsers update themselves now
 <a href="https://support.apple.com/HT204416" rel="nofollow" target="_blank">
 	<img
 		src="https://raw.githubusercontent.com/KwilzOne/update-browser/whitewolf/assets/Safari.png"
-		align="left" alt="Safari" width="64" height="64"
+		align="left" alt="Safari Logo" width="64" height="64"
 	>
 </a>
 </br>
